@@ -7,7 +7,7 @@ uid: 7b54b95e-9f4a-498d-bb7d-7606a20d2dfc
 ---
 ## Policy Memos
 
-Policy memos should be 3–4 pages in length and will be evaluated on (1) clarity of argument, (2) use of supporting data and evidence, and (3) creativity/thoughtfulness in proposed policy solutions. See {{% resource_link "719e2183-ba9e-4d1d-a13a-bf243df1ab19" "here" %}} for guidance on writing an effective policy memo.
+Policy memos should be 3–4 pages in length and will be evaluated on (1) clarity of argument, (2) use of supporting data and evidence, and (3) creativity/thoughtfulness in proposed policy solutions. See [here](https://mitcommlab.mit.edu/broad/commkit/policy-memo/) for guidance on writing an effective policy memo.
 
 ### Policy Memo #1
 
